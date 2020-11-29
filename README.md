@@ -10,7 +10,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [g
 
 - ### Machine Learning
 
--#[Netflix movie prediction](https://github.com/gujralsanyam22/data-science-portfolio/blob/master/Netflix_Movie Prediction/Movie_recommendation.ipynb): A model to predict the o help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. 
+- [Netflix movie prediction](https://github.com/gujralsanyam22/data-science-portfolio/blob/master/Netflix_Movie Prediction/Movie_recommendation.ipynb): A model to predict the o help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. 
 	
 - [BOOK RECOMENDATION SYSTEM](https://github.com/gujralsanyam22/data-science-portfolio/blob/master/book_recomendation/book_recommendation.ipynb): 
 	
